@@ -8,6 +8,7 @@ public class sample {
 	System.out.println("dfghjkl;lkh");
 	System.out.println("dfghgfx");
 	System.out.println("dfghjklkjhg");
+	System.out.println("12345");
 	}
 
 }
