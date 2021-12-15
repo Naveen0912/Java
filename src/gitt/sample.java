@@ -6,6 +6,7 @@ public class sample {
 	System.out.println("ramana");	
 	System.out.println("0876543");
 	System.out.println("12345");
+	System.out.println("billa");
 	}
 
 }
